@@ -3,10 +3,6 @@ package steps;
 import cucumber.api.java.es.Dado;
 import cucumber.api.java.it.Quando;
 import cucumber.api.java.pt.Entao;
-import org.junit.Assert;
-import org.openqa.selenium.*;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import pages.EcomercePage;
 
 import static runner.RunCucumberTest.driver;
